@@ -9,7 +9,7 @@ Software engineering is the study of designing, developing, testing, and maintai
 
 In the technology industry, software engineering is crucial because it enables the development of software that powers everything from everyday applications to complex systems. It ensures that software is scalable, secure, and able to meet users’ needs.
 
-    Identify and describe at least three key milestones in the evolution of software engineering.
+**Identify and describe at least three key milestones in the evolution of software engineering.**
 
 One key milestone is the development of high-level programming languages in the 1950s, which made programming more accessible and efficient compared to machine code. Another significant milestone was the introduction of structured programming in the 1960s, which improved code readability and maintainability. Lastly, the rise of Agile methodologies in the early 2000s revolutionized software development by promoting iterative development, collaboration, and adaptability.
 
